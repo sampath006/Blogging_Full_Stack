@@ -1,5 +1,5 @@
 # Blogging_Full_Stack
-An application using MERN stack.\
+An application using MERN stack.
 
 How to run application:\
 fork the repository\
